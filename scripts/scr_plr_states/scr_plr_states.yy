@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "scr_main",
+  "name": "scr_plr_states",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

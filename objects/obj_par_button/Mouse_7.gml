@@ -2,6 +2,7 @@
 
 //Mudar o estado da slime para o de caindo
 with (slime){
+	hold = false;
 	state = plr_move;
 }
 
